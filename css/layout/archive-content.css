@@ -1,0 +1,7 @@
+.my-img {
+  width: 21rem;
+  border-radius: 10px;
+  display: inline !important;
+  vertical-align: top;
+  margin-left: 10px !important;
+}
